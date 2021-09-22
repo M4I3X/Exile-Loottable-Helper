@@ -3,6 +3,8 @@
 This is a simple helper written in JavaScript and helps you create the loottable config.
 You can create something completely new or import an existing part of your config and edit it.
 
+In principle, it helps you in terms of the fact that the direct percentage is displayed and you won't have to calculate it manually.
+
 ## How to use
 - Open the index.html in a browser of your choice
 - Add Entry: Add a new field to your list
