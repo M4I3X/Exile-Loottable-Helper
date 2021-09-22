@@ -11,7 +11,7 @@ You can create something completely new or import an existing part of your confi
 
 ## Import Example
 
-The code you want to be imported need to follow an exact pattern or else the import won't work correctly. The only thing that can be ignored are whitespaces and the code is allowed to contain comments. 
+The code you want to be imported need to follow an exact pattern or else the import won't work correctly. The only thing that can be ignored are whitespaces and the code is allowed to contain comments behind the classname or groupname (as shown in the LootItemGroups example). 
 
 **LootItemGroups Example:**
 ```
